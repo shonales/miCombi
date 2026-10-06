@@ -117,7 +117,7 @@ def velocidad_gps(ruta, version):
 def fondo(mapa):
     """Calles en gris para que resalten las rutas, y la foto satelital como opción."""
     folium.TileLayer("OpenStreetMap", name="Calles", class_name="calles-gris").add_to(mapa)
-    folium.TileLayer("Esri.WorldImagery", name="Satélite").add_to(mapa)
+    folium.TileLayer("Esri.WorldImagery", name="Satélite", show=False).add_to(mapa)
 
 
 def encuadre(tabla, ancho_px, alto_px):
@@ -223,7 +223,7 @@ def html_todas(rutas, version):
     centro, zoom = encuadre(pd.concat([t[4] for t in tablas]), 1100, 620)
     mapa = folium.Map(location=centro, zoom_start=zoom, tiles=None, prefer_canvas=True)
     fondo(mapa)
-    for ruta, linea, sentido, color, tabla in tablas:
+    for ruta, linea, sentido, color, tabla in sorted(tablas, key=lambda t: t[2] == "ida"):
         puntos = tabla[["lat", "lon"]].values.tolist()
         linea_con_borde(puntos, color, 5, dash_array=None if sentido == "ida" else "10 8",
                         tooltip=f"Línea {linea} · {sentido} · {trayecto(ruta)}").add_to(mapa)
@@ -289,6 +289,7 @@ def seccion_paraderos(ruta):
         tabla = paraderos[["orden", "id_esquina", "calles", "dist_acumulada_m", "hora_llegada",
                            "hubo_parada", "pausa_seg", "velocidad_tramo_kmh", "es_terminal"]].copy()
         tabla["dist_acumulada_m"] = tabla["dist_acumulada_m"] / 1000
+        tabla["calles"] = tabla["calles"].fillna("(sin nombre en OSM)")
         st.dataframe(tabla, hide_index=True, width="stretch", height=520, column_config={
             "orden": "N°", "id_esquina": "Paradero", "calles": "Calles que se cruzan",
             "dist_acumulada_m": st.column_config.NumberColumn("Km", format="%.2f"),
@@ -516,15 +517,8 @@ c[3].metric("Paraderos", int(r["paraderos"]), border=True)
 c[4].metric("Paradas", int(r["paradas_detectadas"]) if con_horas else "-", border=True)
 c[5].metric("Vel. media", f"{r['velocidad_media_kmh']:.1f} km/h" if con_horas else "-", border=True)
 
-generacion = {t["ruta"]: t["segundos"] for t in leer_ejecucion().get("generar_recorridos", {}).get("rutas", [])}
-tiempos_ruta = []
-if ruta in generacion:
-    tiempos_ruta.append(f"recorrido GPS generado en {generacion[ruta]:.2f} s")
 if "tiempo_s" in r and pd.notna(r["tiempo_s"]):
-    tiempos_ruta.append(f"procesado en {r['tiempo_s']:.2f} s")
-if tiempos_ruta:
-    texto = " · ".join(tiempos_ruta)
-    st.caption(f"⏱ {texto[0].upper()}{texto[1:]} (ver «Ejecución» en el menú)")
+    st.caption(f"⏱ Procesado en {r['tiempo_s']:.2f} s (ver «Ejecución» en el menú)")
 
 seccion = st.segmented_control("Sección", SECCIONES, default=SECCIONES[0], label_visibility="collapsed") \
     or SECCIONES[0]

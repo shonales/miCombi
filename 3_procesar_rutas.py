@@ -547,7 +547,7 @@ ESTILO_MAPA = """<style>
 def fondo(mapa):
     """Calles en gris para que resalten las rutas, y la foto satelital como opción."""
     folium.TileLayer("OpenStreetMap", name="Calles", class_name="calles-gris").add_to(mapa)
-    folium.TileLayer("Esri.WorldImagery", name="Satélite").add_to(mapa)
+    folium.TileLayer("Esri.WorldImagery", name="Satélite", show=False).add_to(mapa)
 
 
 def encuadre(latlon, ancho_px=640, alto_px=600):

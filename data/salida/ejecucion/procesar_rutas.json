@@ -1,72 +1,72 @@
 {
   "paso": "procesar_rutas",
-  "fecha": "2026-10-06 16:37:36",
-  "total_s": 4.42,
+  "fecha": "2026-10-06 16:55:12",
+  "total_s": 4.47,
   "partes_s": {
-    "carga_mapa": 2.56,
-    "rutas": 1.86
+    "carga_mapa": 2.65,
+    "rutas": 1.81
   },
-  "memoria_max_mb": 366,
+  "memoria_max_mb": 365,
   "rutas": [
     {
       "ruta": "Ayabacas-Bosque-LM-3",
       "puntos": 2401,
-      "segundos": 0.45,
-      "lectura": 0.075,
-      "ajuste": 0.152,
+      "segundos": 0.44,
+      "lectura": 0.06,
+      "ajuste": 0.156,
       "reconstruccion": 0.072,
-      "guardado": 0.113,
-      "horarios": 0.036
+      "guardado": 0.11,
+      "horarios": 0.037
     },
     {
       "ruta": "Bosque-Ayabacas-LM-3",
       "puntos": 2071,
       "segundos": 0.32,
-      "lectura": 0.058,
-      "ajuste": 0.066,
-      "reconstruccion": 0.067,
-      "guardado": 0.101,
-      "horarios": 0.032
+      "lectura": 0.049,
+      "ajuste": 0.068,
+      "reconstruccion": 0.07,
+      "guardado": 0.097,
+      "horarios": 0.033
     },
     {
       "ruta": "ESCURI-MOLINA-L23",
       "puntos": 1831,
       "segundos": 0.34,
-      "lectura": 0.052,
-      "ajuste": 0.138,
-      "reconstruccion": 0.048,
-      "guardado": 0.076,
+      "lectura": 0.042,
+      "ajuste": 0.142,
+      "reconstruccion": 0.05,
+      "guardado": 0.077,
       "horarios": 0.028
     },
     {
       "ruta": "GUADALUPE-RINCONADA-L1",
       "puntos": 1441,
-      "segundos": 0.23,
-      "lectura": 0.044,
-      "ajuste": 0.069,
-      "reconstruccion": 0.033,
-      "guardado": 0.059,
+      "segundos": 0.21,
+      "lectura": 0.028,
+      "ajuste": 0.065,
+      "reconstruccion": 0.031,
+      "guardado": 0.061,
       "horarios": 0.022
     },
     {
       "ruta": "MOLINA-ESCURI-L23",
       "puntos": 1621,
       "segundos": 0.26,
-      "lectura": 0.046,
-      "ajuste": 0.063,
-      "reconstruccion": 0.051,
-      "guardado": 0.074,
-      "horarios": 0.025
+      "lectura": 0.036,
+      "ajuste": 0.073,
+      "reconstruccion": 0.052,
+      "guardado": 0.076,
+      "horarios": 0.024
     },
     {
       "ruta": "RINCONADA-GUADALUPE-L1",
       "puntos": 1651,
       "segundos": 0.25,
-      "lectura": 0.04,
-      "ajuste": 0.036,
+      "lectura": 0.03,
+      "ajuste": 0.037,
       "reconstruccion": 0.033,
-      "guardado": 0.117,
-      "horarios": 0.025
+      "guardado": 0.123,
+      "horarios": 0.024
     }
   ],
   "km": 79.92,

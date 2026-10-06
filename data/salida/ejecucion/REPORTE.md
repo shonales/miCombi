@@ -17,7 +17,7 @@
 | Paso | Fecha | Tiempo total | Memoria máxima |
 |---|---|---|---|
 | 2. Generar recorridos GPS | 2026-10-06 16:37:30 | 2.09 s | 356 MB |
-| 3. Procesar rutas | 2026-10-06 16:37:36 | 4.42 s | 366 MB |
+| 3. Procesar rutas | 2026-10-06 16:55:12 | 4.47 s | 365 MB |
 
 ## 2. Generar recorridos GPS: tiempo por ruta (segundos)
 
@@ -36,15 +36,15 @@ Promedio por ruta: 0.15 s · mínimo 0.09 s · máximo 0.23 s
 
 ## 3. Procesar rutas: tiempo por ruta (segundos)
 
-Carga del mapa: 2.56 s
+Carga del mapa: 2.65 s
 
 | Ruta | Puntos | Lectura | Ajuste a las calles | Ruta y paraderos | Horarios | Guardado | Total | Puntos/s |
 |---|---|---|---|---|---|---|---|---|
-| Ayabacas-Bosque-LM-3 | 2,401 | 0.07 | 0.15 | 0.07 | 0.04 | 0.11 | **0.45** | 5,336 |
-| Bosque-Ayabacas-LM-3 | 2,071 | 0.06 | 0.07 | 0.07 | 0.03 | 0.10 | **0.32** | 6,472 |
-| ESCURI-MOLINA-L23 | 1,831 | 0.05 | 0.14 | 0.05 | 0.03 | 0.08 | **0.34** | 5,385 |
-| GUADALUPE-RINCONADA-L1 | 1,441 | 0.04 | 0.07 | 0.03 | 0.02 | 0.06 | **0.23** | 6,265 |
-| MOLINA-ESCURI-L23 | 1,621 | 0.05 | 0.06 | 0.05 | 0.03 | 0.07 | **0.26** | 6,235 |
-| RINCONADA-GUADALUPE-L1 | 1,651 | 0.04 | 0.04 | 0.03 | 0.03 | 0.12 | **0.25** | 6,604 |
+| Ayabacas-Bosque-LM-3 | 2,401 | 0.06 | 0.16 | 0.07 | 0.04 | 0.11 | **0.44** | 5,457 |
+| Bosque-Ayabacas-LM-3 | 2,071 | 0.05 | 0.07 | 0.07 | 0.03 | 0.10 | **0.32** | 6,472 |
+| ESCURI-MOLINA-L23 | 1,831 | 0.04 | 0.14 | 0.05 | 0.03 | 0.08 | **0.34** | 5,385 |
+| GUADALUPE-RINCONADA-L1 | 1,441 | 0.03 | 0.07 | 0.03 | 0.02 | 0.06 | **0.21** | 6,862 |
+| MOLINA-ESCURI-L23 | 1,621 | 0.04 | 0.07 | 0.05 | 0.02 | 0.08 | **0.26** | 6,235 |
+| RINCONADA-GUADALUPE-L1 | 1,651 | 0.03 | 0.04 | 0.03 | 0.02 | 0.12 | **0.25** | 6,604 |
 
-Promedio por ruta: 0.31 s · mínimo 0.23 s · máximo 0.45 s
+Promedio por ruta: 0.30 s · mínimo 0.21 s · máximo 0.44 s

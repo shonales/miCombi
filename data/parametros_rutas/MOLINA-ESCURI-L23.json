@@ -1,0 +1,23 @@
+{
+  "ruta": "MOLINA-ESCURI-L23",
+  "linea": "L23",
+  "sentido": "ida",
+  "fecha": "2026-10-06",
+  "hora_salida": "14:00:00",
+  "tiempo_total_min": 54,
+  "pasaje_soles": 1.0,
+  "prob_parada": 0.22,
+  "pausa_parada_seg": [
+    5,
+    35
+  ],
+  "variacion_velocidad": 0.15,
+  "factor_trafico_centro": 1.6,
+  "desvio_vereda_m": [
+    2,
+    4
+  ],
+  "ruido_gps_m": 2.5,
+  "intervalo_seg": 2,
+  "semilla": 1873399668
+}

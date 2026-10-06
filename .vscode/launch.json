@@ -1,0 +1,46 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "1. Descargar mapa",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/1_descargar_mapa.py",
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "1. Descargar mapa (--forzar)",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/1_descargar_mapa.py",
+      "args": ["--forzar"],
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "2. Generar recorridos GPS",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/2_generar_recorridos.py",
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "3. Procesar rutas (paraderos y horarios)",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/3_procesar_rutas.py",
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "Visor: antes y después (Streamlit)",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "streamlit",
+      "args": ["run", "visor.py"],
+      "cwd": "${workspaceFolder}"
+    }
+  ]
+}

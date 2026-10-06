@@ -1,0 +1,9 @@
+osmnx>=2.0
+networkx>=3.2
+geopandas>=1.0
+shapely>=2.0
+gpxpy>=1.6
+pandas>=2.2
+numpy>=1.26
+folium>=0.17
+streamlit>=1.65

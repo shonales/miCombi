@@ -1,0 +1,36 @@
+{
+  "lugares": [
+    "Juliaca, San Román, Puno, Peru",
+    "San Miguel, San Román, Puno, Peru"
+  ],
+  "bbox_respaldo": {
+    "norte": -15.44,
+    "sur": -15.56,
+    "este": -70.08,
+    "oeste": -70.21
+  },
+  "tipo_red": "drive",
+  "radio_busqueda_m": 15,
+  "distancia_min_entre_esquinas_m": 25,
+  "max_retroceso_m": 150,
+  "min_esquinas_aviso": 3,
+  "semilla_aleatoria": 42,
+  "zona_centro": {
+    "norte": -15.488,
+    "sur": -15.503,
+    "este": -70.120,
+    "oeste": -70.137
+  },
+  "ajuste_calles": {
+    "separacion_muestras_m": 20,
+    "radio_candidatos_m": 35,
+    "max_candidatos": 6,
+    "sigma_gps_m": 7,
+    "beta_m": 15
+  },
+  "lineas": {
+    "LM-3": "#f97316",
+    "L1": "#2563eb",
+    "L23": "#9333ea"
+  }
+}

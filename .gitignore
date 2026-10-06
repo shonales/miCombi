@@ -1,0 +1,21 @@
+# Entorno de Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Caché de descargas de OpenStreetMap
+data/mapa/cache/
+cache/
+
+# Mapa sin comprimir (se guarda como .graphml.gz)
+data/mapa/*.graphml
+
+# Mapas HTML: se regeneran con 3_procesar_rutas.py
+data/salida/mapas/
+
+# Sistema y editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/

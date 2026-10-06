@@ -1,0 +1,94 @@
+{
+  "paso": "procesar_rutas",
+  "fecha": "2026-10-06 16:37:36",
+  "total_s": 4.42,
+  "partes_s": {
+    "carga_mapa": 2.56,
+    "rutas": 1.86
+  },
+  "memoria_max_mb": 366,
+  "rutas": [
+    {
+      "ruta": "Ayabacas-Bosque-LM-3",
+      "puntos": 2401,
+      "segundos": 0.45,
+      "lectura": 0.075,
+      "ajuste": 0.152,
+      "reconstruccion": 0.072,
+      "guardado": 0.113,
+      "horarios": 0.036
+    },
+    {
+      "ruta": "Bosque-Ayabacas-LM-3",
+      "puntos": 2071,
+      "segundos": 0.32,
+      "lectura": 0.058,
+      "ajuste": 0.066,
+      "reconstruccion": 0.067,
+      "guardado": 0.101,
+      "horarios": 0.032
+    },
+    {
+      "ruta": "ESCURI-MOLINA-L23",
+      "puntos": 1831,
+      "segundos": 0.34,
+      "lectura": 0.052,
+      "ajuste": 0.138,
+      "reconstruccion": 0.048,
+      "guardado": 0.076,
+      "horarios": 0.028
+    },
+    {
+      "ruta": "GUADALUPE-RINCONADA-L1",
+      "puntos": 1441,
+      "segundos": 0.23,
+      "lectura": 0.044,
+      "ajuste": 0.069,
+      "reconstruccion": 0.033,
+      "guardado": 0.059,
+      "horarios": 0.022
+    },
+    {
+      "ruta": "MOLINA-ESCURI-L23",
+      "puntos": 1621,
+      "segundos": 0.26,
+      "lectura": 0.046,
+      "ajuste": 0.063,
+      "reconstruccion": 0.051,
+      "guardado": 0.074,
+      "horarios": 0.025
+    },
+    {
+      "ruta": "RINCONADA-GUADALUPE-L1",
+      "puntos": 1651,
+      "segundos": 0.25,
+      "lectura": 0.04,
+      "ajuste": 0.036,
+      "reconstruccion": 0.033,
+      "guardado": 0.117,
+      "horarios": 0.025
+    }
+  ],
+  "km": 79.92,
+  "paraderos": 851,
+  "equipo": {
+    "equipo": "Lenovo LOQ 15APH8 (82XT)",
+    "procesador": "AMD Ryzen 7 7840HS w/ Radeon 780M Graphics",
+    "nucleos": 8,
+    "hilos": 16,
+    "ram_gb": 16,
+    "sistema": "Windows 11 (versión 10.0.26200)",
+    "python": "3.13.13",
+    "librerias": {
+      "osmnx": "2.1.1",
+      "networkx": "3.7",
+      "shapely": "2.1.2",
+      "geopandas": "1.2.0",
+      "numpy": "2.5.3",
+      "pandas": "3.0.6",
+      "gpxpy": "1.6.2",
+      "folium": "0.20.0",
+      "streamlit": "1.65.0"
+    }
+  }
+}

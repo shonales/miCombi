@@ -1,0 +1,173 @@
+ruta,orden,id_esquina,id_nodo_osm,lat,lon,dist_acumulada_m,calles,es_terminal
+Ayabacas-Bosque-LM-3,1,E001,8816452237,-15.4075803,-70.0957524,15.5,,True
+Ayabacas-Bosque-LM-3,2,E002,2091781537,-15.4106433,-70.0965493,1442.6,,False
+Ayabacas-Bosque-LM-3,3,E003,8816452243,-15.4117601,-70.0966461,1566.6,,False
+Ayabacas-Bosque-LM-3,4,E004,11540586465,-15.4151858,-70.0969182,1946.7,,False
+Ayabacas-Bosque-LM-3,5,E005,8816452245,-15.4161113,-70.097001,2049.5,,False
+Ayabacas-Bosque-LM-3,6,E006,11540722134,-15.4171799,-70.0970985,2168.2,,False
+Ayabacas-Bosque-LM-3,7,E007,8816452246,-15.4182667,-70.0972039,2288.9,,False
+Ayabacas-Bosque-LM-3,8,E008,2091781436,-15.419536,-70.0973076,2429.8,,False
+Ayabacas-Bosque-LM-3,9,E009,13418392603,-15.4205025,-70.0974039,2537.2,,False
+Ayabacas-Bosque-LM-3,10,E010,13418392610,-15.4215197,-70.0974972,2650.2,,False
+Ayabacas-Bosque-LM-3,11,E011,11540722162,-15.4225809,-70.0975945,2768.0,,False
+Ayabacas-Bosque-LM-3,12,E012,8816452247,-15.4235858,-70.0976851,2879.6,,False
+Ayabacas-Bosque-LM-3,13,E013,8816452252,-15.4246124,-70.0977678,2993.5,,False
+Ayabacas-Bosque-LM-3,14,E014,13418392642,-15.4264545,-70.0979349,3198.1,,False
+Ayabacas-Bosque-LM-3,15,E015,10848171136,-15.4284109,-70.0981131,3415.4,,False
+Ayabacas-Bosque-LM-3,16,E016,8816452248,-15.4294952,-70.0982143,3535.8,,False
+Ayabacas-Bosque-LM-3,17,E017,5587489031,-15.4339474,-70.0986209,4030.3,Avenida Caminaca,False
+Ayabacas-Bosque-LM-3,18,E018,11542255921,-15.4350011,-70.098714,4147.3,Avenida Caminaca,False
+Ayabacas-Bosque-LM-3,19,E019,10848134892,-15.4360688,-70.0988084,4265.9,Avenida Caminaca,False
+Ayabacas-Bosque-LM-3,20,E020,11542255930,-15.4371257,-70.0989065,4383.3,Avenida Caminaca,False
+Ayabacas-Bosque-LM-3,21,E021,10917447023,-15.438114,-70.0989983,4493.0,Avenida Caminaca,False
+Ayabacas-Bosque-LM-3,22,E022,11542255926,-15.4391873,-70.0990979,4612.2,Avenida Caminaca,False
+Ayabacas-Bosque-LM-3,23,E023,5587488899,-15.43942,-70.0991195,4638.1,Avenida Caminaca,False
+Ayabacas-Bosque-LM-3,24,E024,5587488894,-15.4404535,-70.0991855,4752.7,Avenida Caminaca,False
+Ayabacas-Bosque-LM-3,25,E025,10917049373,-15.4414282,-70.0992739,4860.9,Avenida Caminaca,False
+Ayabacas-Bosque-LM-3,26,E026,10917391921,-15.4418674,-70.0993138,4909.7,Avenida Caminaca / Jirón Los Chirihuanos,False
+Ayabacas-Bosque-LM-3,27,E027,5587488893,-15.4431976,-70.0994528,5057.6,Avenida Caminaca,False
+Ayabacas-Bosque-LM-3,28,E028,10917391949,-15.4439,-70.0995274,5135.7,Avenida Caminaca,False
+Ayabacas-Bosque-LM-3,29,E029,6400916977,-15.4444253,-70.0995831,5194.1,Avenida Caminaca,False
+Ayabacas-Bosque-LM-3,30,E030,5178658034,-15.4455892,-70.099677,5323.3,Avenida Caminaca,False
+Ayabacas-Bosque-LM-3,31,E031,5178658015,-15.4469268,-70.0997885,5471.7,Avenida Caminaca / Avenida San Fernando,False
+Ayabacas-Bosque-LM-3,32,E032,13425516372,-15.4472203,-70.0998149,5504.3,Avenida Caminaca,False
+Ayabacas-Bosque-LM-3,33,E033,10917391905,-15.4478788,-70.0998718,5577.4,Avenida Caminaca,False
+Ayabacas-Bosque-LM-3,34,E034,5178657490,-15.4489214,-70.0999711,5693.3,Avenida Caminaca,False
+Ayabacas-Bosque-LM-3,35,E035,10917208601,-15.449228,-70.1000008,5727.3,Avenida Caminaca,False
+Ayabacas-Bosque-LM-3,36,E036,5178657492,-15.4499986,-70.1000755,5813.0,Avenida Caminaca,False
+Ayabacas-Bosque-LM-3,37,E037,5178657497,-15.4510024,-70.1001619,5924.4,Avenida Caminaca,False
+Ayabacas-Bosque-LM-3,38,E038,10917208599,-15.4516053,-70.1002167,5991.3,Avenida Caminaca,False
+Ayabacas-Bosque-LM-3,39,E039,5178657444,-15.4522709,-70.1002772,6065.3,Avenida Caminaca,False
+Ayabacas-Bosque-LM-3,40,E040,10917447044,-15.4527675,-70.1003231,6120.4,Avenida Caminaca,False
+Ayabacas-Bosque-LM-3,41,E041,5178658049,-15.4538429,-70.1004225,6239.9,Avenida Caminaca,False
+Ayabacas-Bosque-LM-3,42,E042,5178658047,-15.454161,-70.100445,6275.2,Avenida Caminaca,False
+Ayabacas-Bosque-LM-3,43,E043,5178658045,-15.4545908,-70.100484,6322.9,Avenida Caminaca,False
+Ayabacas-Bosque-LM-3,44,E044,10917200612,-15.4555865,-70.1006926,6435.6,Avenida Caminaca / Avenida Huancané,False
+Ayabacas-Bosque-LM-3,45,E045,3120173441,-15.456122,-70.1010668,6508.0,Avenida Huancané,False
+Ayabacas-Bosque-LM-3,46,E046,10921189020,-15.4564437,-70.1013508,6554.9,Avenida Huancané,False
+Ayabacas-Bosque-LM-3,47,E047,5178658019,-15.4570287,-70.1017327,6633.3,Avenida Ejercito / Avenida Huancané,False
+Ayabacas-Bosque-LM-3,48,E048,5235538736,-15.4612587,-70.1007623,7123.8,Avenida Ejercito / Avenida Huancané / Jirón 30 de Noviembre,False
+Ayabacas-Bosque-LM-3,49,E049,4295524831,-15.4616423,-70.1007648,7166.2,Avenida Ejercito / Jirón Altura,False
+Ayabacas-Bosque-LM-3,50,E050,5235538754,-15.462162,-70.1010009,7229.9,Avenida Ejercito / Jirón Evaristo Yana,False
+Ayabacas-Bosque-LM-3,51,E051,5235538763,-15.4628048,-70.1016851,7332.3,Avenida Ejercito / Jirón 28 de Julio / Jirón Nueva Esperanza,False
+Ayabacas-Bosque-LM-3,52,E052,9928214896,-15.4631807,-70.1021182,7394.8,Avenida Ejercito,False
+Ayabacas-Bosque-LM-3,53,E053,5235538783,-15.4635762,-70.1025738,7460.4,Avenida Ejercito,False
+Ayabacas-Bosque-LM-3,54,E054,5235538771,-15.463832,-70.1028621,7502.4,Avenida Ejercito / Jirón La Natividad,False
+Ayabacas-Bosque-LM-3,55,E055,5235538779,-15.4643302,-70.103486,7589.1,Avenida Ejercito / Santa María,False
+Ayabacas-Bosque-LM-3,56,E056,5587488630,-15.4649561,-70.1045466,7722.4,Avenida Ejercito,False
+Ayabacas-Bosque-LM-3,57,E057,10921114366,-15.4647482,-70.1054013,7821.1,Avenida Ejercito,False
+Ayabacas-Bosque-LM-3,58,E058,288676022,-15.4640089,-70.1066535,7978.4,Avenida Ejercito / Avenida Huancané,False
+Ayabacas-Bosque-LM-3,59,E059,4823207496,-15.4639267,-70.1072975,8053.2,Avenida Huancané / Jirón Francisco Bolognesi,False
+Ayabacas-Bosque-LM-3,60,E060,5235540133,-15.4651079,-70.1080031,8205.9,Avenida Huancané / Jirón San Miguel,False
+Ayabacas-Bosque-LM-3,61,E061,5235540135,-15.4662478,-70.108599,8347.3,Avenida Huancané / Jirón San Antonio,False
+Ayabacas-Bosque-LM-3,62,E062,10897819612,-15.4671403,-70.1090656,8458.0,Avenida Huancané / Calle San Pedro,False
+Ayabacas-Bosque-LM-3,63,E063,3517444386,-15.4679812,-70.1095052,8562.3,Avenida Huancané / Circunvalación 2,False
+Ayabacas-Bosque-LM-3,64,E064,1751882471,-15.4682013,-70.1096202,8589.6,Avenida Huancané / Circunvalación 2,False
+Ayabacas-Bosque-LM-3,65,E065,1751882482,-15.4689288,-70.1100541,8682.5,Avenida Huancané,False
+Ayabacas-Bosque-LM-3,66,E066,1751882488,-15.4694144,-70.1103436,8744.6,Avenida Huancané,False
+Ayabacas-Bosque-LM-3,67,E067,1751882499,-15.4698921,-70.1106285,8805.6,Avenida Huancané,False
+Ayabacas-Bosque-LM-3,68,E068,6496674280,-15.470182,-70.1108014,8842.7,Avenida Huancané / Avenida Los Virreyes,False
+Ayabacas-Bosque-LM-3,69,E069,1751882516,-15.4710777,-70.1113458,8957.7,Avenida Huancané / Jirón Los Angeles,False
+Ayabacas-Bosque-LM-3,70,E070,1751882523,-15.4715759,-70.1116272,9020.6,Avenida Huancané / Jirón La Florida,False
+Ayabacas-Bosque-LM-3,71,E071,10976064557,-15.4723495,-70.1122096,9126.8,Avenida Huancané / Jirón Pedro Vilcapaza / Jirón San Lorenzo,False
+Ayabacas-Bosque-LM-3,72,E072,1751882546,-15.4734214,-70.1132523,9289.8,Avenida Huancané / Jirón San Juan de Dios,False
+Ayabacas-Bosque-LM-3,73,E073,9929944674,-15.4743343,-70.1141571,9429.9,Avenida Huancané / Avenida Ramon Gutierrez Paz,False
+Ayabacas-Bosque-LM-3,74,E074,1751882580,-15.4756189,-70.1154389,9627.7,Avenida Huancané / Jirón Clorinda Matto De Turner,False
+Ayabacas-Bosque-LM-3,75,E075,1751882590,-15.4763318,-70.1161507,9737.5,Avenida Daniel Alomias Robles / Avenida Huancané,False
+Ayabacas-Bosque-LM-3,76,E076,1751882607,-15.4772679,-70.1170658,9880.2,Abraham Valderomar / Avenida Huancané,False
+Ayabacas-Bosque-LM-3,77,E077,1751882629,-15.4780023,-70.1177768,9991.6,Avenida Huancané / Jirón Cincuentenario,False
+Ayabacas-Bosque-LM-3,78,E078,1751882647,-15.4787587,-70.1185416,10108.8,Avenida Huancané / Jirón José Maria Eguren,False
+Ayabacas-Bosque-LM-3,79,E079,1751882654,-15.4789378,-70.1187147,10136.0,Avenida Huancané / Jirón Illimani,False
+Ayabacas-Bosque-LM-3,80,E080,1751882674,-15.479668,-70.1194461,10248.6,Avenida Huancané / Jirón Cordillera Condor,False
+Ayabacas-Bosque-LM-3,81,E081,1751882688,-15.4801094,-70.1198846,10316.4,Avenida Huancané / Jirón Huayna Capac,False
+Ayabacas-Bosque-LM-3,82,E082,1751882700,-15.4805219,-70.1203179,10381.5,Avenida Huancané,False
+Ayabacas-Bosque-LM-3,83,E083,1751882711,-15.4809155,-70.1207297,10443.6,Avenida Huancané / Pasaje La Merced,False
+Ayabacas-Bosque-LM-3,84,E084,1751882717,-15.4812146,-70.1209942,10487.1,Avenida Huancané / Jirón San Francisco,False
+Ayabacas-Bosque-LM-3,85,E085,11698432703,-15.4816531,-70.1214463,10555.7,Avenida Huancané / Avenida Perú,False
+Ayabacas-Bosque-LM-3,86,E086,1751882742,-15.4826185,-70.1224458,10707.1,Avenida Huancané / Jiròn Pacifico,False
+Ayabacas-Bosque-LM-3,87,E087,1751882752,-15.4834387,-70.1232515,10832.4,Avenida Huancané / Jirón La Cultura,False
+Ayabacas-Bosque-LM-3,88,E088,1751882754,-15.4836738,-70.12349,10868.9,Avenida Huancané / Pasaje San Francisco,False
+Ayabacas-Bosque-LM-3,89,E089,1751882757,-15.4839921,-70.1238207,10918.9,Avenida Huancané / Jirón Miraflores,False
+Ayabacas-Bosque-LM-3,90,E090,1751882763,-15.4843606,-70.1246218,11016.0,Avenida Circunvalación Este / Avenida Huancané / Jirón Cahuide,False
+Ayabacas-Bosque-LM-3,91,E091,257687481,-15.484965,-70.1246224,11102.8,Avenida Circunvalación Este / Jirón Enrique P. Caceres,False
+Ayabacas-Bosque-LM-3,92,E092,1282209753,-15.4851907,-70.1245284,11129.7,Avenida Circunvalación Este / Jirón Mariano Melgar,False
+Ayabacas-Bosque-LM-3,93,E093,1281999256,-15.486135,-70.124165,11241.2,Avenida Circunvalación Este / Jirón Sucre,False
+Ayabacas-Bosque-LM-3,94,E094,257688371,-15.487145,-70.1237598,11361.1,Avenida Circunvalación Este / Jirón Lambayeque,False
+Ayabacas-Bosque-LM-3,95,E095,443135956,-15.488025,-70.1234198,11465.0,Avenida Circunvalación Este / Jirón Huancané,False
+Ayabacas-Bosque-LM-3,96,E096,443135962,-15.4889234,-70.1230601,11571.7,Avenida Circunvalación Este / Jirón Moquegua,False
+Ayabacas-Bosque-LM-3,97,E097,1281999075,-15.4899998,-70.1226331,11699.3,Avenida Circunvalación Este / Jirón Piérola,False
+Ayabacas-Bosque-LM-3,98,E098,1281998934,-15.4903889,-70.1237132,11822.9,Jirón El Maestro / Jirón Piérola,False
+Ayabacas-Bosque-LM-3,99,E099,5585633453,-15.4906189,-70.1243517,11895.9,Jirón Piérola / Pasaje Miguel Grau,False
+Ayabacas-Bosque-LM-3,100,E100,1281998625,-15.4907901,-70.124827,11950.3,Jirón Benigno Ballón / Jirón Piérola,False
+Ayabacas-Bosque-LM-3,101,E101,1281998673,-15.4909563,-70.1252884,12003.1,Jirón Piérola / Jirón Túpac Amaru,False
+Ayabacas-Bosque-LM-3,102,E102,5874660238,-15.4910952,-70.1256741,12047.3,Jirón Piérola,False
+Ayabacas-Bosque-LM-3,103,E103,1281998965,-15.4913802,-70.1264652,12137.8,Jirón Piérola / Jirón Raúl Porras Barrenechea,False
+Ayabacas-Bosque-LM-3,104,E104,1281998635,-15.4917244,-70.127421,12247.2,Jirón Gonzales Prada / Jirón Piérola,False
+Ayabacas-Bosque-LM-3,105,E105,1281998968,-15.4920656,-70.128368,12355.6,Jirón Piérola / Jirón Ramon Castilla,False
+Ayabacas-Bosque-LM-3,106,E106,1281998611,-15.492412,-70.1293298,12466.5,Jirón Apurimac / Jirón Piérola,False
+Ayabacas-Bosque-LM-3,107,E107,1281999091,-15.4927416,-70.1303216,12578.1,Jirón Piérola / Jirón Tumbes,False
+Ayabacas-Bosque-LM-3,108,E108,1281999299,-15.4929987,-70.131169,12673.3,Jirón 8 de Noviembre / Jirón Piérola,False
+Ayabacas-Bosque-LM-3,109,E109,1281998900,-15.4932258,-70.1323565,12804.8,Jirón 2 de Mayo / Jirón Mariano Nuñez / Jirón Piérola,False
+Ayabacas-Bosque-LM-3,110,E110,2424318382,-15.4931467,-70.1331661,12893.1,Jirón 2 de Mayo / San Roman,False
+Ayabacas-Bosque-LM-3,111,E111,320019883,-15.4938666,-70.1329012,12976.6,Jirón Cuzco / San Roman,False
+Ayabacas-Bosque-LM-3,112,E112,2424318379,-15.4946261,-70.1325889,13070.2,Jirón Jirón Bolívar / San Roman,False
+Ayabacas-Bosque-LM-3,113,E113,2420308638,-15.4953198,-70.13231,13149.5,Jirón Jorge Chávez / San Roman / Union,False
+Ayabacas-Bosque-LM-3,114,E114,257688222,-15.4961088,-70.1319045,13251.5,9 de Diciembre / Bracesco / San Roman,False
+Ayabacas-Bosque-LM-3,115,E115,2420308670,-15.4967777,-70.131541,13330.7,Bracesco / Jirón Loreto,False
+Ayabacas-Bosque-LM-3,116,E116,2420308685,-15.4976091,-70.1310816,13435.0,Bracesco / Jirón Piura,False
+Ayabacas-Bosque-LM-3,117,E117,2420308699,-15.4982824,-70.1307039,13520.5,Bracesco / Calle Callao,False
+Ayabacas-Bosque-LM-3,118,E118,257688109,-15.4996146,-70.1298931,13691.8,4 de Noviembre / Avenida Manuel Nuñez Butron / Bracesco / Jirón Cabana / Jirón Noriega,False
+Ayabacas-Bosque-LM-3,119,E119,1281998836,-15.5005632,-70.1294887,13805.3,Avenida Manuel Nuñez Butron / Jirón Daniel Alcides Carrión / Jirón Mariano Pandia,False
+Ayabacas-Bosque-LM-3,120,E120,5608367330,-15.501374,-70.1291696,13901.3,Avenida Manuel Nuñez Butron / Francisco Pizarro / Pasaje Victoria,False
+Ayabacas-Bosque-LM-3,121,E121,1281998638,-15.5023238,-70.1288027,14015.9,Avenida Manuel Nuñez Butron / Jirón Libertad / Patricio Quispe,False
+Ayabacas-Bosque-LM-3,122,E122,9929889393,-15.5032201,-70.1284379,14125.4,Avenida Manuel Nuñez Butron / Jirón Manuel Nuñez Butron / Tarapaca,False
+Ayabacas-Bosque-LM-3,123,E123,2420308805,-15.5042154,-70.1281531,14235.9,Jirón German Humpiri / Jirón Manuel Nuñez Butron,False
+Ayabacas-Bosque-LM-3,124,E124,2420308818,-15.5051751,-70.1277695,14349.5,Jirón Los Olivos / Jirón Manuel Nuñez Butron,False
+Ayabacas-Bosque-LM-3,125,E125,2115516009,-15.5054216,-70.1285079,14433.3,Jirón Cerezos / Jirón Los Naranjos / Jirón Los Olivos,False
+Ayabacas-Bosque-LM-3,126,E126,1281999217,-15.5065508,-70.1285459,14558.5,Jirón Los Naranjos / Jirón Los Pinos,False
+Ayabacas-Bosque-LM-3,127,E127,1281998854,-15.5076833,-70.128555,14688.3,Jirón Las Palmeras / Jirón Los Naranjos,False
+Ayabacas-Bosque-LM-3,128,E128,2420308880,-15.5085256,-70.1285433,14777.0,Jirón Contisuyo / Jirón Los Naranjos,False
+Ayabacas-Bosque-LM-3,129,E129,2115516000,-15.5091783,-70.1285427,14850.4,Jirón Chasqui / Jirón Los Naranjos,False
+Ayabacas-Bosque-LM-3,130,E130,2420308888,-15.5097704,-70.1286651,14916.0,Jirón Antisuyo / Jirón Los Naranjos,False
+Ayabacas-Bosque-LM-3,131,E131,2420308894,-15.5107136,-70.1288928,15027.1,Jirón Los Naranjos / Jirón Machupicchu,False
+Ayabacas-Bosque-LM-3,132,E132,2420308900,-15.5111197,-70.1289904,15069.3,Avenida Américas / Jirón Argentina / Jirón Los Naranjos,False
+Ayabacas-Bosque-LM-3,133,E133,2420768393,-15.5119034,-70.1291824,15158.4,Jirón Argentina / Jirón Guatemala,False
+Ayabacas-Bosque-LM-3,134,E134,2115515919,-15.5125343,-70.1293192,15229.7,Jirón Argentina / Jirón Mexico,False
+Ayabacas-Bosque-LM-3,135,E135,2420768419,-15.5131328,-70.1295199,15299.4,Jirón Argentina,False
+Ayabacas-Bosque-LM-3,136,E136,2420768426,-15.5133675,-70.129614,15327.2,Jirón Argentina / Jirón Montevideo,False
+Ayabacas-Bosque-LM-3,137,E137,2115516064,-15.513755,-70.129817,15375.3,Jirón Argentina / Jirón Caracas,False
+Ayabacas-Bosque-LM-3,138,E138,2420768440,-15.5143739,-70.1296005,15447.6,Jirón Argentina / Jirón Panamá,False
+Ayabacas-Bosque-LM-3,139,E139,2420768448,-15.5149987,-70.1293283,15524.8,Jirón Argentina / Jirón Canadá,False
+Ayabacas-Bosque-LM-3,140,E140,2420768460,-15.515683,-70.1290481,15604.1,Jirón Argentina / Jirón Bogotá,False
+Ayabacas-Bosque-LM-3,141,E141,2420768485,-15.5163895,-70.1287338,15689.2,Jirón Argentina / Jirón Huallaga,False
+Ayabacas-Bosque-LM-3,142,E142,2420768499,-15.5170114,-70.1284808,15765.3,Avenida Amazonas / Jirón Argentina,False
+Ayabacas-Bosque-LM-3,143,E143,2420768519,-15.5177684,-70.1281377,15854.7,Jirón Argentina / Jirón Napo,False
+Ayabacas-Bosque-LM-3,144,E144,2420768533,-15.5189706,-70.1276103,16004.6,Jirón Argentina / Jirón Santa,False
+Ayabacas-Bosque-LM-3,145,E145,2420768540,-15.5194481,-70.1274225,16055.7,Jirón Argentina / Jirón Supe,False
+Ayabacas-Bosque-LM-3,146,E146,2420768546,-15.5200709,-70.1271438,16130.8,Jirón Argentina / Jirón Sama,False
+Ayabacas-Bosque-LM-3,147,E147,2420768554,-15.520707,-70.12688,16206.7,Avenida Marañon / Jirón Argentina,False
+Ayabacas-Bosque-LM-3,148,E148,2420768569,-15.5213786,-70.1266779,16284.5,Jirón Argentina,False
+Ayabacas-Bosque-LM-3,149,E149,2420768590,-15.5220652,-70.1268227,16364.7,Jirón Argentina / Jirón Duero,False
+Ayabacas-Bosque-LM-3,150,E150,2420768605,-15.5226813,-70.1271175,16437.4,Jirón Argentina / Jirón Paraná,False
+Ayabacas-Bosque-LM-3,151,E151,2620302821,-15.5230779,-70.1265393,16513.4,Jirón Inambari / Jirón Paraná,False
+Ayabacas-Bosque-LM-3,152,E152,2420768612,-15.5234486,-70.125999,16584.4,Jirón Paraná / Jirón Yavero,False
+Ayabacas-Bosque-LM-3,153,E153,10880443666,-15.5240114,-70.1263536,16657.3,Jirón Jequetepeque / Jirón Yavero,False
+Ayabacas-Bosque-LM-3,154,E154,5585575349,-15.5245434,-70.1267422,16729.4,Jirón Nilo / Jirón Yavero,False
+Ayabacas-Bosque-LM-3,155,E155,12697600062,-15.5254755,-70.1274066,16856.0,Jirón Yavero,False
+Ayabacas-Bosque-LM-3,156,E156,5585575210,-15.5260154,-70.1277709,16926.2,Jirón Yavero,False
+Ayabacas-Bosque-LM-3,157,E157,3226623709,-15.5256171,-70.128326,17002.6,Jirón Inambari / Jirón Orinoco,False
+Ayabacas-Bosque-LM-3,158,E158,5585575179,-15.5262082,-70.1287442,17096.4,Jirón Danubio / Jirón Inambari,False
+Ayabacas-Bosque-LM-3,159,E159,5585575200,-15.5267938,-70.1291585,17162.6,Jirón Canoas / Jirón Inambari,False
+Ayabacas-Bosque-LM-3,160,E160,5585575181,-15.5273261,-70.1295351,17248.3,Jirón Coata / Jirón Inambari,False
+Ayabacas-Bosque-LM-3,161,E161,5585575196,-15.5269749,-70.1300901,17322.7,Jirón Coata / Jirón Pampas,False
+Ayabacas-Bosque-LM-3,162,E162,5589847511,-15.5276302,-70.1305353,17402.7,Avenida Amazonas / Jirón Pampas,False
+Ayabacas-Bosque-LM-3,163,E163,5589847513,-15.5281787,-70.130957,17474.3,Jirón Huallaga / Jirón Pampas,False
+Ayabacas-Bosque-LM-3,164,E164,5589847515,-15.5287086,-70.1313374,17553.6,Jirón Chanchamayo / Jirón Pampas,False
+Ayabacas-Bosque-LM-3,165,E165,5585575166,-15.5297202,-70.1321015,17679.4,Jirón Mantaro / Jirón Pampas,False
+Ayabacas-Bosque-LM-3,166,E166,5589847516,-15.5308316,-70.1328958,17842.0,Jirón Chillón / Jirón Pampas,False
+Ayabacas-Bosque-LM-3,167,E167,5585575165,-15.5314163,-70.1333273,17908.6,Avenida Circunvalación Sur / Jirón Pampas,False
+Ayabacas-Bosque-LM-3,168,E168,3226635986,-15.5305718,-70.1345424,18067.4,Avenida Circunvalación Sur,False
+Ayabacas-Bosque-LM-3,169,E169,3226635988,-15.5306289,-70.1347708,18106.3,Av. Ucayali / Avenida Circunvalación Sur,False
+Ayabacas-Bosque-LM-3,170,E170,9544009635,-15.5310038,-70.1351208,18166.4,Av. Ucayali,False
+Ayabacas-Bosque-LM-3,171,E171,10923291656,-15.5326518,-70.1360907,18366.4,Av. Ucayali,False
+Ayabacas-Bosque-LM-3,172,E172,,-15.53271,-70.137132,18757.5,Av. Ucayali,True

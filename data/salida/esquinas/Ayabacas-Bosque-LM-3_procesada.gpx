@@ -1,0 +1,1320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="JuliacaBus-DS">
+<metadata>
+<name>Ayabacas-Bosque-LM-3 - ruta procesada</name>
+<desc>Ruta ajustada a las calles de OpenStreetMap; cada esquina es un paradero.</desc>
+</metadata>
+<wpt lat="-15.4075803" lon="-70.0957524">
+<name>E001</name>
+<desc>sin nombre en OSM | llegada 09:00:13 | pausa 10 s</desc>
+<type>terminal</type>
+</wpt>
+<wpt lat="-15.4106433" lon="-70.0965493">
+<name>E002</name>
+<desc>sin nombre en OSM | llegada 09:05:07 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4117601" lon="-70.0966461">
+<name>E003</name>
+<desc>sin nombre en OSM | llegada 09:05:31 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4151858" lon="-70.0969182">
+<name>E004</name>
+<desc>sin nombre en OSM | llegada 09:06:43 | pausa 10 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4161113" lon="-70.097001">
+<name>E005</name>
+<desc>sin nombre en OSM | llegada 09:07:34 | pausa 30 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4171799" lon="-70.0970985">
+<name>E006</name>
+<desc>sin nombre en OSM | llegada 09:08:03 | pausa 24 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4182667" lon="-70.0972039">
+<name>E007</name>
+<desc>sin nombre en OSM | llegada 09:08:51 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.419536" lon="-70.0973076">
+<name>E008</name>
+<desc>sin nombre en OSM | llegada 09:09:19 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4205025" lon="-70.0974039">
+<name>E009</name>
+<desc>sin nombre en OSM | llegada 09:09:39 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4215197" lon="-70.0974972">
+<name>E010</name>
+<desc>sin nombre en OSM | llegada 09:10:03 | pausa 36 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4225809" lon="-70.0975945">
+<name>E011</name>
+<desc>sin nombre en OSM | llegada 09:11:01 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4235858" lon="-70.0976851">
+<name>E012</name>
+<desc>sin nombre en OSM | llegada 09:11:21 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4246124" lon="-70.0977678">
+<name>E013</name>
+<desc>sin nombre en OSM | llegada 09:11:46 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4264545" lon="-70.0979349">
+<name>E014</name>
+<desc>sin nombre en OSM | llegada 09:12:29 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4284109" lon="-70.0981131">
+<name>E015</name>
+<desc>sin nombre en OSM | llegada 09:13:14 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4294952" lon="-70.0982143">
+<name>E016</name>
+<desc>sin nombre en OSM | llegada 09:14:02 | pausa 22 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4339474" lon="-70.0986209">
+<name>E017</name>
+<desc>Avenida Caminaca | llegada 09:15:26 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4350011" lon="-70.098714">
+<name>E018</name>
+<desc>Avenida Caminaca | llegada 09:15:45 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4360688" lon="-70.0988084">
+<name>E019</name>
+<desc>Avenida Caminaca | llegada 09:16:09 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4371257" lon="-70.0989065">
+<name>E020</name>
+<desc>Avenida Caminaca | llegada 09:16:29 | pausa 22 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.438114" lon="-70.0989983">
+<name>E021</name>
+<desc>Avenida Caminaca | llegada 09:17:14 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4391873" lon="-70.0990979">
+<name>E022</name>
+<desc>Avenida Caminaca | llegada 09:17:40 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.43942" lon="-70.0991195">
+<name>E023</name>
+<desc>Avenida Caminaca | llegada 09:17:45 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4404535" lon="-70.0991855">
+<name>E024</name>
+<desc>Avenida Caminaca | llegada 09:18:05 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4414282" lon="-70.0992739">
+<name>E025</name>
+<desc>Avenida Caminaca | llegada 09:18:28 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4418674" lon="-70.0993138">
+<name>E026</name>
+<desc>Avenida Caminaca / Jirón Los Chirihuanos | llegada 09:18:39 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4431976" lon="-70.0994528">
+<name>E027</name>
+<desc>Avenida Caminaca | llegada 09:19:09 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4439" lon="-70.0995274">
+<name>E028</name>
+<desc>Avenida Caminaca | llegada 09:19:24 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4444253" lon="-70.0995831">
+<name>E029</name>
+<desc>Avenida Caminaca | llegada 09:19:35 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4455892" lon="-70.099677">
+<name>E030</name>
+<desc>Avenida Caminaca | llegada 09:20:02 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4469268" lon="-70.0997885">
+<name>E031</name>
+<desc>Avenida Caminaca / Avenida San Fernando | llegada 09:20:31 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4472203" lon="-70.0998149">
+<name>E032</name>
+<desc>Avenida Caminaca | llegada 09:20:37 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4478788" lon="-70.0998718">
+<name>E033</name>
+<desc>Avenida Caminaca | llegada 09:20:49 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4489214" lon="-70.0999711">
+<name>E034</name>
+<desc>Avenida Caminaca | llegada 09:21:09 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.449228" lon="-70.1000008">
+<name>E035</name>
+<desc>Avenida Caminaca | llegada 09:21:15 | pausa 12 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4499986" lon="-70.1000755">
+<name>E036</name>
+<desc>Avenida Caminaca | llegada 09:21:40 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4510024" lon="-70.1001619">
+<name>E037</name>
+<desc>Avenida Caminaca | llegada 09:22:03 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4516053" lon="-70.1002167">
+<name>E038</name>
+<desc>Avenida Caminaca | llegada 09:22:16 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4522709" lon="-70.1002772">
+<name>E039</name>
+<desc>Avenida Caminaca | llegada 09:22:30 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4527675" lon="-70.1003231">
+<name>E040</name>
+<desc>Avenida Caminaca | llegada 09:22:41 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4538429" lon="-70.1004225">
+<name>E041</name>
+<desc>Avenida Caminaca | llegada 09:23:03 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.454161" lon="-70.100445">
+<name>E042</name>
+<desc>Avenida Caminaca | llegada 09:23:10 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4545908" lon="-70.100484">
+<name>E043</name>
+<desc>Avenida Caminaca | llegada 09:23:40 | pausa 20 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4555865" lon="-70.1006926">
+<name>E044</name>
+<desc>Avenida Caminaca / Avenida Huancané | llegada 09:23:55 | pausa 16 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.456122" lon="-70.1010668">
+<name>E045</name>
+<desc>Avenida Huancané | llegada 09:24:23 | pausa 24 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4564437" lon="-70.1013508">
+<name>E046</name>
+<desc>Avenida Huancané | llegada 09:24:56 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4570287" lon="-70.1017327">
+<name>E047</name>
+<desc>Avenida Ejercito / Avenida Huancané | llegada 09:25:13 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4612587" lon="-70.1007623">
+<name>E048</name>
+<desc>Avenida Ejercito / Avenida Huancané / Jirón 30 de Noviembre | llegada 09:26:39 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4616423" lon="-70.1007648">
+<name>E049</name>
+<desc>Avenida Ejercito / Jirón Altura | llegada 09:26:47 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.462162" lon="-70.1010009">
+<name>E050</name>
+<desc>Avenida Ejercito / Jirón Evaristo Yana | llegada 09:26:59 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4628048" lon="-70.1016851">
+<name>E051</name>
+<desc>Avenida Ejercito / Jirón 28 de Julio / Jirón Nueva Esperanza | llegada 09:27:18 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4631807" lon="-70.1021182">
+<name>E052</name>
+<desc>Avenida Ejercito | llegada 09:27:30 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4635762" lon="-70.1025738">
+<name>E053</name>
+<desc>Avenida Ejercito | llegada 09:27:42 | pausa 26 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.463832" lon="-70.1028621">
+<name>E054</name>
+<desc>Avenida Ejercito / Jirón La Natividad | llegada 09:28:23 | pausa 30 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4643302" lon="-70.103486">
+<name>E055</name>
+<desc>Avenida Ejercito / Santa María | llegada 09:29:06 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4649561" lon="-70.1045466">
+<name>E056</name>
+<desc>Avenida Ejercito | llegada 09:29:32 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4647482" lon="-70.1054013">
+<name>E057</name>
+<desc>Avenida Ejercito | llegada 09:29:52 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4640089" lon="-70.1066535">
+<name>E058</name>
+<desc>Avenida Ejercito / Avenida Huancané | llegada 09:30:20 | pausa 24 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4639267" lon="-70.1072975">
+<name>E059</name>
+<desc>Avenida Huancané / Jirón Francisco Bolognesi | llegada 09:30:56 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4651079" lon="-70.1080031">
+<name>E060</name>
+<desc>Avenida Huancané / Jirón San Miguel | llegada 09:31:23 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4662478" lon="-70.108599">
+<name>E061</name>
+<desc>Avenida Huancané / Jirón San Antonio | llegada 09:31:45 | pausa 26 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4671403" lon="-70.1090656">
+<name>E062</name>
+<desc>Avenida Huancané / Calle San Pedro | llegada 09:32:30 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4679812" lon="-70.1095052">
+<name>E063</name>
+<desc>Avenida Huancané / Circunvalación 2 | llegada 09:32:49 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4682013" lon="-70.1096202">
+<name>E064</name>
+<desc>Avenida Huancané / Circunvalación 2 | llegada 09:32:54 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4689288" lon="-70.1100541">
+<name>E065</name>
+<desc>Avenida Huancané | llegada 09:33:12 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4694144" lon="-70.1103436">
+<name>E066</name>
+<desc>Avenida Huancané | llegada 09:33:24 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4698921" lon="-70.1106285">
+<name>E067</name>
+<desc>Avenida Huancané | llegada 09:34:10 | pausa 34 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.470182" lon="-70.1108014">
+<name>E068</name>
+<desc>Avenida Huancané / Avenida Los Virreyes | llegada 09:34:17 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4710777" lon="-70.1113458">
+<name>E069</name>
+<desc>Avenida Huancané / Jirón Los Angeles | llegada 09:34:38 | pausa 14 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4715759" lon="-70.1116272">
+<name>E070</name>
+<desc>Avenida Huancané / Jirón La Florida | llegada 09:35:01 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4723495" lon="-70.1122096">
+<name>E071</name>
+<desc>Avenida Huancané / Jirón Pedro Vilcapaza / Jirón San Lorenzo | llegada 09:35:22 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4734214" lon="-70.1132523">
+<name>E072</name>
+<desc>Avenida Huancané / Jirón San Juan de Dios | llegada 09:35:56 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4743343" lon="-70.1141571">
+<name>E073</name>
+<desc>Avenida Huancané / Avenida Ramon Gutierrez Paz | llegada 09:36:36 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4756189" lon="-70.1154389">
+<name>E074</name>
+<desc>Avenida Huancané / Jirón Clorinda Matto De Turner | llegada 09:37:16 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4763318" lon="-70.1161507">
+<name>E075</name>
+<desc>Avenida Daniel Alomias Robles / Avenida Huancané | llegada 09:37:37 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4772679" lon="-70.1170658">
+<name>E076</name>
+<desc>Abraham Valderomar / Avenida Huancané | llegada 09:38:19 | pausa 34 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4780023" lon="-70.1177768">
+<name>E077</name>
+<desc>Avenida Huancané / Jirón Cincuentenario | llegada 09:38:58 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4787587" lon="-70.1185416">
+<name>E078</name>
+<desc>Avenida Huancané / Jirón José Maria Eguren | llegada 09:39:19 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4789378" lon="-70.1187147">
+<name>E079</name>
+<desc>Avenida Huancané / Jirón Illimani | llegada 09:39:24 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.479668" lon="-70.1194461">
+<name>E080</name>
+<desc>Avenida Huancané / Jirón Cordillera Condor | llegada 09:39:47 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4801094" lon="-70.1198846">
+<name>E081</name>
+<desc>Avenida Huancané / Jirón Huayna Capac | llegada 09:40:00 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4805219" lon="-70.1203179">
+<name>E082</name>
+<desc>Avenida Huancané | llegada 09:40:12 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4809155" lon="-70.1207297">
+<name>E083</name>
+<desc>Avenida Huancané / Pasaje La Merced | llegada 09:40:25 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4812146" lon="-70.1209942">
+<name>E084</name>
+<desc>Avenida Huancané / Jirón San Francisco | llegada 09:40:51 | pausa 28 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4816531" lon="-70.1214463">
+<name>E085</name>
+<desc>Avenida Huancané / Avenida Perú | llegada 09:41:12 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4826185" lon="-70.1224458">
+<name>E086</name>
+<desc>Avenida Huancané / Jiròn Pacifico | llegada 09:41:46 | pausa 18 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4834387" lon="-70.1232515">
+<name>E087</name>
+<desc>Avenida Huancané / Jirón La Cultura | llegada 09:42:19 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4836738" lon="-70.12349">
+<name>E088</name>
+<desc>Avenida Huancané / Pasaje San Francisco | llegada 09:42:25 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4839921" lon="-70.1238207">
+<name>E089</name>
+<desc>Avenida Huancané / Jirón Miraflores | llegada 09:42:36 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4843606" lon="-70.1246218">
+<name>E090</name>
+<desc>Avenida Circunvalación Este / Avenida Huancané / Jirón Cahuide | llegada 09:42:52 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.484965" lon="-70.1246224">
+<name>E091</name>
+<desc>Avenida Circunvalación Este / Jirón Enrique P. Caceres | llegada 09:43:07 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4851907" lon="-70.1245284">
+<name>E092</name>
+<desc>Avenida Circunvalación Este / Jirón Mariano Melgar | llegada 09:43:12 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.486135" lon="-70.124165">
+<name>E093</name>
+<desc>Avenida Circunvalación Este / Jirón Sucre | llegada 09:43:40 | pausa 16 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.487145" lon="-70.1237598">
+<name>E094</name>
+<desc>Avenida Circunvalación Este / Jirón Lambayeque | llegada 09:44:06 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.488025" lon="-70.1234198">
+<name>E095</name>
+<desc>Avenida Circunvalación Este / Jirón Huancané | llegada 09:44:23 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4889234" lon="-70.1230601">
+<name>E096</name>
+<desc>Avenida Circunvalación Este / Jirón Moquegua | llegada 09:44:49 | pausa 24 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4899998" lon="-70.1226331">
+<name>E097</name>
+<desc>Avenida Circunvalación Este / Jirón Piérola | llegada 09:46:00 | pausa 2 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4903889" lon="-70.1237132">
+<name>E098</name>
+<desc>Jirón El Maestro / Jirón Piérola | llegada 09:46:31 | pausa 22 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4906189" lon="-70.1243517">
+<name>E099</name>
+<desc>Jirón Piérola / Pasaje Miguel Grau | llegada 09:47:10 | pausa 20 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4907901" lon="-70.124827">
+<name>E100</name>
+<desc>Jirón Benigno Ballón / Jirón Piérola | llegada 09:47:44 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4909563" lon="-70.1252884">
+<name>E101</name>
+<desc>Jirón Piérola / Jirón Túpac Amaru | llegada 09:48:00 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4910952" lon="-70.1256741">
+<name>E102</name>
+<desc>Jirón Piérola | llegada 09:48:13 | pausa 26 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4913802" lon="-70.1264652">
+<name>E103</name>
+<desc>Jirón Piérola / Jirón Raúl Porras Barrenechea | llegada 09:49:10 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4917244" lon="-70.127421">
+<name>E104</name>
+<desc>Jirón Gonzales Prada / Jirón Piérola | llegada 09:49:39 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4920656" lon="-70.128368">
+<name>E105</name>
+<desc>Jirón Piérola / Jirón Ramon Castilla | llegada 09:50:11 | pausa 24 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.492412" lon="-70.1293298">
+<name>E106</name>
+<desc>Jirón Apurimac / Jirón Piérola | llegada 09:51:04 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4927416" lon="-70.1303216">
+<name>E107</name>
+<desc>Jirón Piérola / Jirón Tumbes | llegada 09:51:41 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4929987" lon="-70.131169">
+<name>E108</name>
+<desc>Jirón 8 de Noviembre / Jirón Piérola | llegada 09:52:11 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4932258" lon="-70.1323565">
+<name>E109</name>
+<desc>Jirón 2 de Mayo / Jirón Mariano Nuñez / Jirón Piérola | llegada 09:52:50 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4931467" lon="-70.1331661">
+<name>E110</name>
+<desc>Jirón 2 de Mayo / San Roman | llegada 09:53:20 | pausa 2 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4938666" lon="-70.1329012">
+<name>E111</name>
+<desc>Jirón Cuzco / San Roman | llegada 09:53:44 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4946261" lon="-70.1325889">
+<name>E112</name>
+<desc>Jirón Jirón Bolívar / San Roman | llegada 09:54:17 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4953198" lon="-70.13231">
+<name>E113</name>
+<desc>Jirón Jorge Chávez / San Roman / Union | llegada 09:54:40 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4961088" lon="-70.1319045">
+<name>E114</name>
+<desc>9 de Diciembre / Bracesco / San Roman | llegada 09:55:13 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4967777" lon="-70.131541">
+<name>E115</name>
+<desc>Bracesco / Jirón Loreto | llegada 09:56:06 | pausa 34 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4976091" lon="-70.1310816">
+<name>E116</name>
+<desc>Bracesco / Jirón Piura | llegada 09:56:43 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4982824" lon="-70.1307039">
+<name>E117</name>
+<desc>Bracesco / Calle Callao | llegada 09:57:12 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.4996146" lon="-70.1298931">
+<name>E118</name>
+<desc>4 de Noviembre / Avenida Manuel Nuñez Butron / Bracesco / Jirón Cabana / Jirón Noriega | llegada 09:58:05 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.5005632" lon="-70.1294887">
+<name>E119</name>
+<desc>Avenida Manuel Nuñez Butron / Jirón Daniel Alcides Carrión / Jirón Mariano Pandia | llegada 09:58:40 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.501374" lon="-70.1291696">
+<name>E120</name>
+<desc>Avenida Manuel Nuñez Butron / Francisco Pizarro / Pasaje Victoria | llegada 09:59:09 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.5023238" lon="-70.1288027">
+<name>E121</name>
+<desc>Avenida Manuel Nuñez Butron / Jirón Libertad / Patricio Quispe | llegada 09:59:42 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.5032201" lon="-70.1284379">
+<name>E122</name>
+<desc>Avenida Manuel Nuñez Butron / Jirón Manuel Nuñez Butron / Tarapaca | llegada 10:00:16 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.5042154" lon="-70.1281531">
+<name>E123</name>
+<desc>Jirón German Humpiri / Jirón Manuel Nuñez Butron | llegada 10:00:37 | pausa 36 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.5051751" lon="-70.1277695">
+<name>E124</name>
+<desc>Jirón Los Olivos / Jirón Manuel Nuñez Butron | llegada 10:01:44 | pausa 16 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.5054216" lon="-70.1285079">
+<name>E125</name>
+<desc>Jirón Cerezos / Jirón Los Naranjos / Jirón Los Olivos | llegada 10:01:57 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.5065508" lon="-70.1285459">
+<name>E126</name>
+<desc>Jirón Los Naranjos / Jirón Los Pinos | llegada 10:02:34 | pausa 14 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.5076833" lon="-70.128555">
+<name>E127</name>
+<desc>Jirón Las Palmeras / Jirón Los Naranjos | llegada 10:02:55 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.5085256" lon="-70.1285433">
+<name>E128</name>
+<desc>Jirón Contisuyo / Jirón Los Naranjos | llegada 10:03:14 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.5091783" lon="-70.1285427">
+<name>E129</name>
+<desc>Jirón Chasqui / Jirón Los Naranjos | llegada 10:03:25 | pausa 24 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.5097704" lon="-70.1286651">
+<name>E130</name>
+<desc>Jirón Antisuyo / Jirón Los Naranjos | llegada 10:04:03 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.5107136" lon="-70.1288928">
+<name>E131</name>
+<desc>Jirón Los Naranjos / Jirón Machupicchu | llegada 10:04:27 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.5111197" lon="-70.1289904">
+<name>E132</name>
+<desc>Avenida Américas / Jirón Argentina / Jirón Los Naranjos | llegada 10:04:35 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.5119034" lon="-70.1291824">
+<name>E133</name>
+<desc>Jirón Argentina / Jirón Guatemala | llegada 10:04:52 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.5125343" lon="-70.1293192">
+<name>E134</name>
+<desc>Jirón Argentina / Jirón Mexico | llegada 10:05:07 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.5131328" lon="-70.1295199">
+<name>E135</name>
+<desc>Jirón Argentina | llegada 10:05:21 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.5133675" lon="-70.129614">
+<name>E136</name>
+<desc>Jirón Argentina / Jirón Montevideo | llegada 10:05:25 | pausa 32 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.513755" lon="-70.129817">
+<name>E137</name>
+<desc>Jirón Argentina / Jirón Caracas | llegada 10:06:06 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.5143739" lon="-70.1296005">
+<name>E138</name>
+<desc>Jirón Argentina / Jirón Panamá | llegada 10:06:18 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.5149987" lon="-70.1293283">
+<name>E139</name>
+<desc>Jirón Argentina / Jirón Canadá | llegada 10:06:34 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.515683" lon="-70.1290481">
+<name>E140</name>
+<desc>Jirón Argentina / Jirón Bogotá | llegada 10:06:48 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.5163895" lon="-70.1287338">
+<name>E141</name>
+<desc>Jirón Argentina / Jirón Huallaga | llegada 10:07:02 | pausa 10 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.5170114" lon="-70.1284808">
+<name>E142</name>
+<desc>Avenida Amazonas / Jirón Argentina | llegada 10:07:33 | pausa 20 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.5177684" lon="-70.1281377">
+<name>E143</name>
+<desc>Jirón Argentina / Jirón Napo | llegada 10:08:04 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.5189706" lon="-70.1276103">
+<name>E144</name>
+<desc>Jirón Argentina / Jirón Santa | llegada 10:08:32 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.5194481" lon="-70.1274225">
+<name>E145</name>
+<desc>Jirón Argentina / Jirón Supe | llegada 10:08:41 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.5200709" lon="-70.1271438">
+<name>E146</name>
+<desc>Jirón Argentina / Jirón Sama | llegada 10:08:53 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.520707" lon="-70.12688">
+<name>E147</name>
+<desc>Avenida Marañon / Jirón Argentina | llegada 10:09:07 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.5213786" lon="-70.1266779">
+<name>E148</name>
+<desc>Jirón Argentina | llegada 10:09:22 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.5220652" lon="-70.1268227">
+<name>E149</name>
+<desc>Jirón Argentina / Jirón Duero | llegada 10:09:36 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.5226813" lon="-70.1271175">
+<name>E150</name>
+<desc>Jirón Argentina / Jirón Paraná | llegada 10:09:51 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.5230779" lon="-70.1265393">
+<name>E151</name>
+<desc>Jirón Inambari / Jirón Paraná | llegada 10:10:06 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.5234486" lon="-70.125999">
+<name>E152</name>
+<desc>Jirón Paraná / Jirón Yavero | llegada 10:10:19 | pausa 2 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.5240114" lon="-70.1263536">
+<name>E153</name>
+<desc>Jirón Jequetepeque / Jirón Yavero | llegada 10:10:33 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.5245434" lon="-70.1267422">
+<name>E154</name>
+<desc>Jirón Nilo / Jirón Yavero | llegada 10:11:03 | pausa 18 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.5254755" lon="-70.1274066">
+<name>E155</name>
+<desc>Jirón Yavero | llegada 10:11:33 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.5260154" lon="-70.1277709">
+<name>E156</name>
+<desc>Jirón Yavero | llegada 10:11:45 | pausa 2 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.5256171" lon="-70.128326">
+<name>E157</name>
+<desc>Jirón Inambari / Jirón Orinoco | llegada 10:12:35 | pausa 34 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.5262082" lon="-70.1287442">
+<name>E158</name>
+<desc>Jirón Danubio / Jirón Inambari | llegada 10:13:27 | pausa 36 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.5267938" lon="-70.1291585">
+<name>E159</name>
+<desc>Jirón Canoas / Jirón Inambari | llegada 10:14:00 | pausa 20 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.5273261" lon="-70.1295351">
+<name>E160</name>
+<desc>Jirón Coata / Jirón Inambari | llegada 10:14:16 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.5269749" lon="-70.1300901">
+<name>E161</name>
+<desc>Jirón Coata / Jirón Pampas | llegada 10:14:30 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.5276302" lon="-70.1305353">
+<name>E162</name>
+<desc>Avenida Amazonas / Jirón Pampas | llegada 10:14:42 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.5281787" lon="-70.130957">
+<name>E163</name>
+<desc>Jirón Huallaga / Jirón Pampas | llegada 10:15:14 | pausa 16 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.5287086" lon="-70.1313374">
+<name>E164</name>
+<desc>Jirón Chanchamayo / Jirón Pampas | llegada 10:15:28 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.5297202" lon="-70.1321015">
+<name>E165</name>
+<desc>Jirón Mantaro / Jirón Pampas | llegada 10:16:26 | pausa 32 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.5308316" lon="-70.1328958">
+<name>E166</name>
+<desc>Jirón Chillón / Jirón Pampas | llegada 10:17:09 | pausa 2 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.5314163" lon="-70.1333273">
+<name>E167</name>
+<desc>Avenida Circunvalación Sur / Jirón Pampas | llegada 10:17:21 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.5305718" lon="-70.1345424">
+<name>E168</name>
+<desc>Avenida Circunvalación Sur | llegada 10:17:48 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.5306289" lon="-70.1347708">
+<name>E169</name>
+<desc>Av. Ucayali / Avenida Circunvalación Sur | llegada 10:17:55 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.5310038" lon="-70.1351208">
+<name>E170</name>
+<desc>Av. Ucayali | llegada 10:18:08 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.5326518" lon="-70.1360907">
+<name>E171</name>
+<desc>Av. Ucayali | llegada 10:18:44 | pausa 0 s</desc>
+<type>paradero</type>
+</wpt>
+<wpt lat="-15.53271" lon="-70.137132">
+<name>E172</name>
+<desc>Av. Ucayali | llegada 10:20:00 | pausa 2 s</desc>
+<type>terminal</type>
+</wpt>
+<trk>
+<name>Ayabacas-Bosque-LM-3 (procesada)</name>
+<trkseg>
+<trkpt lat="-15.407446" lon="-70.095711">
+</trkpt>
+<trkpt lat="-15.40758" lon="-70.095752">
+</trkpt>
+<trkpt lat="-15.407574" lon="-70.095522">
+</trkpt>
+<trkpt lat="-15.407559" lon="-70.09545">
+</trkpt>
+<trkpt lat="-15.407506" lon="-70.095301">
+</trkpt>
+<trkpt lat="-15.407451" lon="-70.095192">
+</trkpt>
+<trkpt lat="-15.407332" lon="-70.094967">
+</trkpt>
+<trkpt lat="-15.407238" lon="-70.094868">
+</trkpt>
+<trkpt lat="-15.407139" lon="-70.094632">
+</trkpt>
+<trkpt lat="-15.407055" lon="-70.094345">
+</trkpt>
+<trkpt lat="-15.407025" lon="-70.094198">
+</trkpt>
+<trkpt lat="-15.407005" lon="-70.094049">
+</trkpt>
+<trkpt lat="-15.406997" lon="-70.093914">
+</trkpt>
+<trkpt lat="-15.406998" lon="-70.093642">
+</trkpt>
+<trkpt lat="-15.407012" lon="-70.093475">
+</trkpt>
+<trkpt lat="-15.407034" lon="-70.093309">
+</trkpt>
+<trkpt lat="-15.407066" lon="-70.093145">
+</trkpt>
+<trkpt lat="-15.407132" lon="-70.09291">
+</trkpt>
+<trkpt lat="-15.407173" lon="-70.092796">
+</trkpt>
+<trkpt lat="-15.407276" lon="-70.092565">
+</trkpt>
+<trkpt lat="-15.407405" lon="-70.092337">
+</trkpt>
+<trkpt lat="-15.407478" lon="-70.092229">
+</trkpt>
+<trkpt lat="-15.40765" lon="-70.092022">
+</trkpt>
+<trkpt lat="-15.407743" lon="-70.091925">
+</trkpt>
+<trkpt lat="-15.407942" lon="-70.091746">
+</trkpt>
+<trkpt lat="-15.408057" lon="-70.091658">
+</trkpt>
+<trkpt lat="-15.408298" lon="-70.091502">
+</trkpt>
+<trkpt lat="-15.408425" lon="-70.091434">
+</trkpt>
+<trkpt lat="-15.408547" lon="-70.09138">
+</trkpt>
+<trkpt lat="-15.408672" lon="-70.091332">
+</trkpt>
+<trkpt lat="-15.408929" lon="-70.091259">
+</trkpt>
+<trkpt lat="-15.409043" lon="-70.091236">
+</trkpt>
+<trkpt lat="-15.409275" lon="-70.091208">
+</trkpt>
+<trkpt lat="-15.409533" lon="-70.091201">
+</trkpt>
+<trkpt lat="-15.409674" lon="-70.091209">
+</trkpt>
+<trkpt lat="-15.409954" lon="-70.091253">
+</trkpt>
+<trkpt lat="-15.410097" lon="-70.09129">
+</trkpt>
+<trkpt lat="-15.410237" lon="-70.091336">
+</trkpt>
+<trkpt lat="-15.410373" lon="-70.091392">
+</trkpt>
+<trkpt lat="-15.410624" lon="-70.091512">
+</trkpt>
+<trkpt lat="-15.41085" lon="-70.091643">
+</trkpt>
+<trkpt lat="-15.411059" lon="-70.091801">
+</trkpt>
+<trkpt lat="-15.411168" lon="-70.0919">
+</trkpt>
+<trkpt lat="-15.41127" lon="-70.092005">
+</trkpt>
+<trkpt lat="-15.411365" lon="-70.092117">
+</trkpt>
+<trkpt lat="-15.411453" lon="-70.092236">
+</trkpt>
+<trkpt lat="-15.411533" lon="-70.09236">
+</trkpt>
+<trkpt lat="-15.411605" lon="-70.092489">
+</trkpt>
+<trkpt lat="-15.41172" lon="-70.092724">
+</trkpt>
+<trkpt lat="-15.411769" lon="-70.092846">
+</trkpt>
+<trkpt lat="-15.411847" lon="-70.093097">
+</trkpt>
+<trkpt lat="-15.411878" lon="-70.093231">
+</trkpt>
+<trkpt lat="-15.411901" lon="-70.093368">
+</trkpt>
+<trkpt lat="-15.411927" lon="-70.093643">
+</trkpt>
+<trkpt lat="-15.411929" lon="-70.093782">
+</trkpt>
+<trkpt lat="-15.411912" lon="-70.094063">
+</trkpt>
+<trkpt lat="-15.411865" lon="-70.094347">
+</trkpt>
+<trkpt lat="-15.411831" lon="-70.094486">
+</trkpt>
+<trkpt lat="-15.411741" lon="-70.094754">
+</trkpt>
+<trkpt lat="-15.411624" lon="-70.095008">
+</trkpt>
+<trkpt lat="-15.411556" lon="-70.095129">
+</trkpt>
+<trkpt lat="-15.411481" lon="-70.095246">
+</trkpt>
+<trkpt lat="-15.411321" lon="-70.095452">
+</trkpt>
+<trkpt lat="-15.411271" lon="-70.095554">
+</trkpt>
+<trkpt lat="-15.411148" lon="-70.095682">
+</trkpt>
+<trkpt lat="-15.411066" lon="-70.095786">
+</trkpt>
+<trkpt lat="-15.410796" lon="-70.096263">
+</trkpt>
+<trkpt lat="-15.410643" lon="-70.096549">
+</trkpt>
+<trkpt lat="-15.41176" lon="-70.096646">
+</trkpt>
+<trkpt lat="-15.412811" lon="-70.096704">
+</trkpt>
+<trkpt lat="-15.41718" lon="-70.097098">
+</trkpt>
+<trkpt lat="-15.418267" lon="-70.097204">
+</trkpt>
+<trkpt lat="-15.419536" lon="-70.097308">
+</trkpt>
+<trkpt lat="-15.420513" lon="-70.097405">
+</trkpt>
+<trkpt lat="-15.423586" lon="-70.097685">
+</trkpt>
+<trkpt lat="-15.424612" lon="-70.097768">
+</trkpt>
+<trkpt lat="-15.429495" lon="-70.098214">
+</trkpt>
+<trkpt lat="-15.430516" lon="-70.098292">
+</trkpt>
+<trkpt lat="-15.433947" lon="-70.098621">
+</trkpt>
+<trkpt lat="-15.436069" lon="-70.098808">
+</trkpt>
+<trkpt lat="-15.43942" lon="-70.09912">
+</trkpt>
+<trkpt lat="-15.440453" lon="-70.099186">
+</trkpt>
+<trkpt lat="-15.442013" lon="-70.099327">
+</trkpt>
+<trkpt lat="-15.444425" lon="-70.099583">
+</trkpt>
+<trkpt lat="-15.44805" lon="-70.099887">
+</trkpt>
+<trkpt lat="-15.449999" lon="-70.100076">
+</trkpt>
+<trkpt lat="-15.453843" lon="-70.100422">
+</trkpt>
+<trkpt lat="-15.454025" lon="-70.100432">
+</trkpt>
+<trkpt lat="-15.454591" lon="-70.100484">
+</trkpt>
+<trkpt lat="-15.455177" lon="-70.100565">
+</trkpt>
+<trkpt lat="-15.455715" lon="-70.100733">
+</trkpt>
+<trkpt lat="-15.456122" lon="-70.101067">
+</trkpt>
+<trkpt lat="-15.456724" lon="-70.101598">
+</trkpt>
+<trkpt lat="-15.456847" lon="-70.101692">
+</trkpt>
+<trkpt lat="-15.45696" lon="-70.101725">
+</trkpt>
+<trkpt lat="-15.457029" lon="-70.101733">
+</trkpt>
+<trkpt lat="-15.457123" lon="-70.101731">
+</trkpt>
+<trkpt lat="-15.457263" lon="-70.10167">
+</trkpt>
+<trkpt lat="-15.457692" lon="-70.101421">
+</trkpt>
+<trkpt lat="-15.458406" lon="-70.10102">
+</trkpt>
+<trkpt lat="-15.458604" lon="-70.100925">
+</trkpt>
+<trkpt lat="-15.458911" lon="-70.100855">
+</trkpt>
+<trkpt lat="-15.459348" lon="-70.100831">
+</trkpt>
+<trkpt lat="-15.460265" lon="-70.100803">
+</trkpt>
+<trkpt lat="-15.461259" lon="-70.100762">
+</trkpt>
+<trkpt lat="-15.461642" lon="-70.100765">
+</trkpt>
+<trkpt lat="-15.461734" lon="-70.100776">
+</trkpt>
+<trkpt lat="-15.46206" lon="-70.100921">
+</trkpt>
+<trkpt lat="-15.462281" lon="-70.101094">
+</trkpt>
+<trkpt lat="-15.462805" lon="-70.101685">
+</trkpt>
+<trkpt lat="-15.462868" lon="-70.10178">
+</trkpt>
+<trkpt lat="-15.463181" lon="-70.102118">
+</trkpt>
+<trkpt lat="-15.463832" lon="-70.102862">
+</trkpt>
+<trkpt lat="-15.464262" lon="-70.103388">
+</trkpt>
+<trkpt lat="-15.46433" lon="-70.103486">
+</trkpt>
+<trkpt lat="-15.464776" lon="-70.104193">
+</trkpt>
+<trkpt lat="-15.464956" lon="-70.104547">
+</trkpt>
+<trkpt lat="-15.46499" lon="-70.104672">
+</trkpt>
+<trkpt lat="-15.464996" lon="-70.104798">
+</trkpt>
+<trkpt lat="-15.464984" lon="-70.104925">
+</trkpt>
+<trkpt lat="-15.464914" lon="-70.105107">
+</trkpt>
+<trkpt lat="-15.464583" lon="-70.105695">
+</trkpt>
+<trkpt lat="-15.464009" lon="-70.106654">
+</trkpt>
+<trkpt lat="-15.463909" lon="-70.106808">
+</trkpt>
+<trkpt lat="-15.463857" lon="-70.106977">
+</trkpt>
+<trkpt lat="-15.46387" lon="-70.10717">
+</trkpt>
+<trkpt lat="-15.46395" lon="-70.10735">
+</trkpt>
+<trkpt lat="-15.464079" lon="-70.107465">
+</trkpt>
+<trkpt lat="-15.468201" lon="-70.10962">
+</trkpt>
+<trkpt lat="-15.470261" lon="-70.110848">
+</trkpt>
+<trkpt lat="-15.471078" lon="-70.111346">
+</trkpt>
+<trkpt lat="-15.471734" lon="-70.111719">
+</trkpt>
+<trkpt lat="-15.472102" lon="-70.111987">
+</trkpt>
+<trkpt lat="-15.472474" lon="-70.112322">
+</trkpt>
+<trkpt lat="-15.474403" lon="-70.114224">
+</trkpt>
+<trkpt lat="-15.476332" lon="-70.116151">
+</trkpt>
+<trkpt lat="-15.478002" lon="-70.117777">
+</trkpt>
+<trkpt lat="-15.478759" lon="-70.118542">
+</trkpt>
+<trkpt lat="-15.480109" lon="-70.119885">
+</trkpt>
+<trkpt lat="-15.480916" lon="-70.12073">
+</trkpt>
+<trkpt lat="-15.481215" lon="-70.120994">
+</trkpt>
+<trkpt lat="-15.482618" lon="-70.122446">
+</trkpt>
+<trkpt lat="-15.483439" lon="-70.123252">
+</trkpt>
+<trkpt lat="-15.483992" lon="-70.123821">
+</trkpt>
+<trkpt lat="-15.484121" lon="-70.123935">
+</trkpt>
+<trkpt lat="-15.48443" lon="-70.124829">
+</trkpt>
+<trkpt lat="-15.486135" lon="-70.124165">
+</trkpt>
+<trkpt lat="-15.49" lon="-70.122633">
+</trkpt>
+<trkpt lat="-15.492412" lon="-70.12933">
+</trkpt>
+<trkpt lat="-15.492742" lon="-70.130322">
+</trkpt>
+<trkpt lat="-15.492999" lon="-70.131169">
+</trkpt>
+<trkpt lat="-15.49311" lon="-70.131547">
+</trkpt>
+<trkpt lat="-15.493249" lon="-70.132067">
+</trkpt>
+<trkpt lat="-15.493147" lon="-70.133166">
+</trkpt>
+<trkpt lat="-15.493867" lon="-70.132901">
+</trkpt>
+<trkpt lat="-15.49532" lon="-70.13231">
+</trkpt>
+<trkpt lat="-15.496109" lon="-70.131904">
+</trkpt>
+<trkpt lat="-15.496143" lon="-70.131881">
+</trkpt>
+<trkpt lat="-15.496778" lon="-70.131541">
+</trkpt>
+<trkpt lat="-15.498282" lon="-70.130704">
+</trkpt>
+<trkpt lat="-15.499512" lon="-70.13001">
+</trkpt>
+<trkpt lat="-15.499615" lon="-70.129893">
+</trkpt>
+<trkpt lat="-15.500563" lon="-70.129489">
+</trkpt>
+<trkpt lat="-15.503144" lon="-70.128481">
+</trkpt>
+<trkpt lat="-15.50322" lon="-70.128438">
+</trkpt>
+<trkpt lat="-15.50324" lon="-70.12845">
+</trkpt>
+<trkpt lat="-15.503285" lon="-70.128451">
+</trkpt>
+<trkpt lat="-15.504215" lon="-70.128153">
+</trkpt>
+<trkpt lat="-15.504511" lon="-70.128025">
+</trkpt>
+<trkpt lat="-15.505175" lon="-70.12777">
+</trkpt>
+<trkpt lat="-15.505422" lon="-70.128508">
+</trkpt>
+<trkpt lat="-15.505639" lon="-70.128543">
+</trkpt>
+<trkpt lat="-15.507683" lon="-70.128555">
+</trkpt>
+<trkpt lat="-15.508526" lon="-70.128543">
+</trkpt>
+<trkpt lat="-15.509178" lon="-70.128543">
+</trkpt>
+<trkpt lat="-15.50977" lon="-70.128665">
+</trkpt>
+<trkpt lat="-15.511903" lon="-70.129182">
+</trkpt>
+<trkpt lat="-15.512534" lon="-70.129319">
+</trkpt>
+<trkpt lat="-15.512716" lon="-70.129373">
+</trkpt>
+<trkpt lat="-15.513133" lon="-70.12952">
+</trkpt>
+<trkpt lat="-15.513368" lon="-70.129614">
+</trkpt>
+<trkpt lat="-15.513755" lon="-70.129817">
+</trkpt>
+<trkpt lat="-15.514374" lon="-70.1296">
+</trkpt>
+<trkpt lat="-15.514999" lon="-70.129328">
+</trkpt>
+<trkpt lat="-15.515683" lon="-70.129048">
+</trkpt>
+<trkpt lat="-15.51639" lon="-70.128734">
+</trkpt>
+<trkpt lat="-15.517011" lon="-70.128481">
+</trkpt>
+<trkpt lat="-15.517138" lon="-70.128418">
+</trkpt>
+<trkpt lat="-15.517768" lon="-70.128138">
+</trkpt>
+<trkpt lat="-15.518971" lon="-70.12761">
+</trkpt>
+<trkpt lat="-15.519448" lon="-70.127422">
+</trkpt>
+<trkpt lat="-15.520071" lon="-70.127144">
+</trkpt>
+<trkpt lat="-15.520707" lon="-70.12688">
+</trkpt>
+<trkpt lat="-15.520815" lon="-70.126822">
+</trkpt>
+<trkpt lat="-15.520881" lon="-70.126801">
+</trkpt>
+<trkpt lat="-15.521206" lon="-70.126709">
+</trkpt>
+<trkpt lat="-15.521379" lon="-70.126678">
+</trkpt>
+<trkpt lat="-15.521815" lon="-70.126745">
+</trkpt>
+<trkpt lat="-15.522065" lon="-70.126823">
+</trkpt>
+<trkpt lat="-15.52225" lon="-70.126897">
+</trkpt>
+<trkpt lat="-15.522681" lon="-70.127118">
+</trkpt>
+<trkpt lat="-15.523449" lon="-70.125999">
+</trkpt>
+<trkpt lat="-15.524011" lon="-70.126354">
+</trkpt>
+<trkpt lat="-15.524543" lon="-70.126742">
+</trkpt>
+<trkpt lat="-15.525475" lon="-70.127407">
+</trkpt>
+<trkpt lat="-15.526015" lon="-70.127771">
+</trkpt>
+<trkpt lat="-15.525617" lon="-70.128326">
+</trkpt>
+<trkpt lat="-15.527326" lon="-70.129535">
+</trkpt>
+<trkpt lat="-15.526975" lon="-70.13009">
+</trkpt>
+<trkpt lat="-15.52763" lon="-70.130535">
+</trkpt>
+<trkpt lat="-15.528179" lon="-70.130957">
+</trkpt>
+<trkpt lat="-15.528709" lon="-70.131337">
+</trkpt>
+<trkpt lat="-15.52972" lon="-70.132102">
+</trkpt>
+<trkpt lat="-15.530832" lon="-70.132896">
+</trkpt>
+<trkpt lat="-15.531416" lon="-70.133327">
+</trkpt>
+<trkpt lat="-15.530572" lon="-70.134542">
+</trkpt>
+<trkpt lat="-15.530629" lon="-70.134771">
+</trkpt>
+<trkpt lat="-15.530776" lon="-70.134987">
+</trkpt>
+<trkpt lat="-15.532739" lon="-70.136142">
+</trkpt>
+<trkpt lat="-15.533697" lon="-70.136655">
+</trkpt>
+<trkpt lat="-15.533435" lon="-70.13781">
+</trkpt>
+<trkpt lat="-15.533086" lon="-70.137835">
+</trkpt>
+<trkpt lat="-15.532752" lon="-70.137766">
+</trkpt>
+<trkpt lat="-15.53271" lon="-70.137132">
+</trkpt>
+</trkseg>
+</trk>
+</gpx>

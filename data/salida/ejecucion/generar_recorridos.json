@@ -1,0 +1,87 @@
+{
+  "paso": "generar_recorridos",
+  "fecha": "2026-10-06 16:37:30",
+  "total_s": 2.09,
+  "partes_s": {
+    "carga_mapa": 1.21,
+    "rutas": 0.88
+  },
+  "memoria_max_mb": 356,
+  "rutas": [
+    {
+      "ruta": "Ayabacas-Bosque-LM-3",
+      "puntos": 2401,
+      "segundos": 0.225,
+      "lectura": 0.048,
+      "esquinas": 0.099,
+      "movimiento": 0.047,
+      "guardado": 0.031
+    },
+    {
+      "ruta": "Bosque-Ayabacas-LM-3",
+      "puntos": 2071,
+      "segundos": 0.184,
+      "lectura": 0.042,
+      "esquinas": 0.09,
+      "movimiento": 0.026,
+      "guardado": 0.025
+    },
+    {
+      "ruta": "ESCURI-MOLINA-L23",
+      "puntos": 1831,
+      "segundos": 0.144,
+      "lectura": 0.045,
+      "esquinas": 0.057,
+      "movimiento": 0.022,
+      "guardado": 0.02
+    },
+    {
+      "ruta": "GUADALUPE-RINCONADA-L1",
+      "puntos": 1441,
+      "segundos": 0.092,
+      "lectura": 0.04,
+      "esquinas": 0.023,
+      "movimiento": 0.013,
+      "guardado": 0.015
+    },
+    {
+      "ruta": "MOLINA-ESCURI-L23",
+      "puntos": 1621,
+      "segundos": 0.133,
+      "lectura": 0.041,
+      "esquinas": 0.056,
+      "movimiento": 0.018,
+      "guardado": 0.017
+    },
+    {
+      "ruta": "RINCONADA-GUADALUPE-L1",
+      "puntos": 1651,
+      "segundos": 0.098,
+      "lectura": 0.038,
+      "esquinas": 0.027,
+      "movimiento": 0.015,
+      "guardado": 0.017
+    }
+  ],
+  "km": 79.91,
+  "equipo": {
+    "equipo": "Lenovo LOQ 15APH8 (82XT)",
+    "procesador": "AMD Ryzen 7 7840HS w/ Radeon 780M Graphics",
+    "nucleos": 8,
+    "hilos": 16,
+    "ram_gb": 16,
+    "sistema": "Windows 11 (versión 10.0.26200)",
+    "python": "3.13.13",
+    "librerias": {
+      "osmnx": "2.1.1",
+      "networkx": "3.7",
+      "shapely": "2.1.2",
+      "geopandas": "1.2.0",
+      "numpy": "2.5.3",
+      "pandas": "3.0.6",
+      "gpxpy": "1.6.2",
+      "folium": "0.20.0",
+      "streamlit": "1.65.0"
+    }
+  }
+}
